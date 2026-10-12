@@ -1,4 +1,4 @@
-# IBM-HR-ATTRItion
+# IBM-HR-ATTRITION
 # 📌 Problem Statement
 IBM is facing 16.12% annual attrition (237 out of 1470 employees). Replacing one employee costs ~1.5x salary. The goal is to predict attrition and identify key drivers.
 
